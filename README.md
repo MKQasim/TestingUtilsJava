@@ -4,6 +4,9 @@
 - **Email**: kamqasim1@gmail.com
 - **Phone**: +4915216414689
 
+https://github.com/MKQasim/TestingUtilsJava.git
+https://github.com/MKQasim/TestingUtilsiOS.git
+
 ## Developer Guide for Code Refactoring and Testing in Cross-Platform Development 
 
 In the context of cross-platform development, the same codebase is often used across different platforms. In this case, we will consider a scenario where the code is written in Java and Swift and tested for Android and iOS, respectively. Improvements are made as required for both platforms. 
